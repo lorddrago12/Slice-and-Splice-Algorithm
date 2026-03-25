@@ -114,7 +114,7 @@ Contributions are welcome! 🎉
 1. **Fork** this repository
 2. **Clone** your fork
    ```bash
-   git clone https://github.com/your-username/slice-and-splice.git
+   git clone https://github.com/lorddrago12/Slice-and-Splice-Algorithm.git
    ```
 3. **Create a branch**
    ```bash
