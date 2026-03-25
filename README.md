@@ -1,6 +1,6 @@
 # 🔪 Slice and Splice
 
-> A lightweight JavaScript utility that inserts all elements of one array into another at a given index — without mutating the originals.
+> A lightweight JavaScript utility that inserts all elements of one array into another at a given index — without changing the originals.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
